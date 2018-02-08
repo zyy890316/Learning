@@ -1,0 +1,11 @@
+content_assist_favorite_static_members=java.util.Arrays.*;java.util.Collections.*;org.mockito.Mockito.*;org.mockito.Matchers.*;org.mockito.BDDMockito.*;org.hamcrest.Matchers.*;org.hamcrest.MatcherAssert.*;java.util.concurrent.CompletableFuture.*
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=13
+org.eclipse.jdt.ui.staticondemandthreshold=6
+spelling_locale_initialized=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
