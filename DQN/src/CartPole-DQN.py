@@ -138,8 +138,8 @@ class Agent:
         if self.steps % 100 == 0:
             S = numpy.array([-0.01335408, -0.04600273, -0.00677248, 0.01517507])
             pred = agent.brain.predictOne(S)
-            print(pred[0])
-            sys.stdout.flush()
+            #print(pred[0])
+            #sys.stdout.flush()
 
         # slowly decrease Epsilon based on our eperience
         self.steps += 1
