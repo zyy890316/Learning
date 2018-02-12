@@ -1,3 +1,0 @@
-eclipse.preferences.version=1
-org.eclipse.debug.core.PREF_BREAKPOINT_MANAGER_ENABLED_STATE=true
-prefWatchExpressions=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<watchExpressions>\n<expression enabled\="true" text\="self.qValues"/>\n<expression enabled\="true" text\="state"/>\n<expression enabled\="true" text\="action"/>\n<expression enabled\="true" text\="reward"/>\n<expression enabled\="true" text\="featureVector.iteritems()"/>\n<expression enabled\="true" text\="self.weights[feature]"/>\n<expression enabled\="true" text\="self.alpha * diff * featureValue"/>\n</watchExpressions>\n
